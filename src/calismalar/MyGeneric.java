@@ -19,5 +19,6 @@ final class Unit<T> {
         return new Unit<T>(value);
     }
 // Github'dan değişiklik yaptım.
+    //Intellij'den değişiklik yaptım. Github'da bakacağım.
 
 }
