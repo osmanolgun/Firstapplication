@@ -20,5 +20,6 @@ final class Unit<T> {
     }
 // Github'dan değişiklik yaptım.
     //Intellij'den değişiklik yaptım. Github'da bakacağım.
+    //MyBranch üzerinden değişiklik yaptım.
 
 }
