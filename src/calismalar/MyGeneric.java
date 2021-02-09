@@ -16,10 +16,14 @@ final class Unit<T> {
 
 
     public static <T> Unit<T> of(T value){
-        return new Unit<T>(value);
+        return new Unit<>(value);
     }
 // Github'dan değişiklik yaptım.
     //Intellij'den değişiklik yaptım. Github'da bakacağım.
     //MyBranch üzerinden değişiklik yaptım.
+
+    //MyBranch içerisinde yaptığım değişiklik.
+    //MyBranch_02 içerisinde yaptığım değişiklik
+
 
 }
